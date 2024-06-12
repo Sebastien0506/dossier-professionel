@@ -1,4 +1,4 @@
-# Dossier de Reconversion Professionnelle en Développement Web
+# Dossier Professionnel
 
 Ce dépôt contient le dossier que j'ai réalisé dans le cadre de ma reconversion professionnelle en tant que développeur web. Vous trouverez dans le fichier PDF ci-joint une présentation de mon parcours, de mes compétences acquises et de mes projets réalisés.
 
@@ -18,5 +18,4 @@ Vous pouvez télécharger le document PDF en cliquant sur le fichier ci-dessous.
 
 
 
-# dossier-professionel
-# dossier-professionel
+
